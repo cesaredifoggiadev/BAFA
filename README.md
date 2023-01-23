@@ -6,15 +6,15 @@
 [![Requirements Status](https://requires.io/github/pretrehr/Sports-betting/requirements.svg?branch=master)](https://requires.io/github/pretrehr/Sports-betting/requirements/?branch=master)
 [![GitHub license](https://img.shields.io/github/license/pretrehr/Sports-betting.svg)](https://github.com/pretrehr/Sports-betting/blob/master/LICENSE)
 
-# Sports-betting
-Sports betting assistant which optimizes earnings regarding odds and offers
+# BAFA
+BAFA assistente che ottimizza i guadagni in merito a quote e offerte
 
 [(English version below)](#english-version)
 
 Assistant de paris sportifs avec optimisation des gains en fonction des cotes et des promotions
 
 <details>
-<summary>Sommaire</summary>
+<summary>Indice</summary>
 
 * [Installation](#installation)
 * [Initialisation](#initialisation)
